@@ -12,7 +12,8 @@ Data Preprocessing
   
 Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
-- The parameters for this model were chosen with the help of the keras tuner. Doing so allows for the best model to be found for this dataset. 
+  [!image]https://github.com/itsy24/deep-learning-challenge/blob/main/images/Screenshot%202023-07-08%20154024.png?raw=true
+  The parameters for this model were chosen with the help of the keras tuner. Doing so allows for the best model to be found for this dataset. 
   
 - Were you able to achieve the target model performance?
    No, the model's accuracy was at 75.6%.
